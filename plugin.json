@@ -1,0 +1,12 @@
+{
+	"ID": "XPTSV55IYX1FLZLID3X6XGX121E2YPDL",
+	"ActionKeyword": "tr",
+	"Name": "YouDao",
+	"Description": "YouDao Translate Auto",
+	"Author": "Cri",
+	"Version": "1.0.0",
+	"Language": "python",
+	"Website": "https://fanyi.youdao.com/indexLLM.html#/",
+	"IcoPath": "Images\\youdao.png",
+	"ExecuteFileName": "main.py"
+}

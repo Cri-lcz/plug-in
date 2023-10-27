@@ -1,0 +1,37 @@
+
+hpython:S1192¿"ODefine a constant instead of duplicating this literal '/dev/clipboard' 3 times.(ÃàÙ‰
+zpython:S117k"^Rename this local variable "acceptedTypes" to match the regular expression ^[_a-z][a-z0-9_]*$.(á“¾Èüÿÿÿÿ
+lpython:S1542i"TRename function "_stringifyText" to match the regular expression ^[a-z_][a-z0-9_]*$.(äûÒ‘
+Hpython:S1481~"0Replace unused local variable "stderr" with "_".(ÀíÒœ
+ppython:S117‰"XRename this local variable "newData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÍí¢
+tpython:S117ˆ"WRename this local variable "newStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼„˜Ùûÿÿÿÿ
+python:S117£"bRename this local variable "clipboardContents" to match the regular expression ^[_a-z][a-z0-9_]*$.(ô¬îæÿÿÿÿÿ
+Upython:S5754´"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Upython:S5754·"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Ipython:S1481ß"0Replace unused local variable "stderr" with "_".(ÀíÒœ
+Ipython:S1481ù"0Replace unused local variable "stderr" with "_".(ÀíÒœ
+5python:S2772‹"Remove this unneeded "pass".(ã‘Û¾
+zpython:S117«"bRename this local variable "clipboardContents" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿã´Õ
+Ipython:S1481§"0Replace unused local variable "stderr" with "_".(ÀíÒœ
+Rpython:S1135ª"4Complete the task associated to this "TODO" comment.(æÃ…Ýúÿÿÿÿ
+{python:S117þ"^Rename this local variable "OpenClipboard" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ýÚøÿÿÿÿ
+{python:S117‚"cRename this local variable "safeCloseClipboard" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷öÿ¯
+python:S117õ"dRename this local variable "safeCreateWindowExA" to match the regular expression ^[_a-z][a-z0-9_]*$.(“åäôùÿÿÿÿ
+python:S117ú"bRename this local variable "safeDestroyWindow" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì®Æ·þÿÿÿÿ
+€python:S117†"cRename this local variable "safeEmptyClipboard" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜¯ñùøÿÿÿÿ
+‚python:S117Š"eRename this local variable "safeGetClipboardData" to match the regular expression ^[_a-z][a-z0-9_]*$.(šÒ‘Îÿÿÿÿÿ
+xpython:S117’"`Rename this local variable "safeGlobalAlloc" to match the regular expression ^[_a-z][a-z0-9_]*$.(§åô§
+|python:S117–"_Rename this local variable "safeGlobalLock" to match the regular expression ^[_a-z][a-z0-9_]*$.(§œ…‘úÿÿÿÿ
+~python:S117š"aRename this local variable "safeGlobalUnlock" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãÏ¹Ýøÿÿÿÿ
+‚python:S117Ž"eRename this local variable "safeSetClipboardData" to match the regular expression ^[_a-z][a-z0-9_]*$.(øæ”Áüÿÿÿÿ
+Ipython:S1481ƒ"0Replace unused local variable "stderr" with "_".(ÀíÒœ
+rpython:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ÑŒ©§ûÿÿÿÿ
+jpython:S1134•"LTake the required action to fix the issue indicated by this "FIXME" comment.(ªœ¿ôûÿÿÿÿ
+Mpython:S1135ð"4Complete the task associated to this "TODO" comment.(å˜—¨
+vpython:S117À"^Rename this local variable "clipboardText" to match the regular expression ^[_a-z][a-z0-9_]*$.(­œãƒ
+wpython:S117¾"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÂË€ÿÿÿÿÿ
+kpython:S1542·"RRename function "waitForPaste" to match the regular expression ^[a-z_][a-z0-9_]*$.(Û£Ÿ„
+tpython:S117Ô"\Rename this local variable "currentText" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ýš´Å
+zpython:S117Ò"]Rename this local variable "originalText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯‰ãéüÿÿÿÿ
+wpython:S117Ñ"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÒÂË€ÿÿÿÿÿ
+spython:S1542É"URename function "waitForNewPaste" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿ¹ßïÿÿÿÿÿ
